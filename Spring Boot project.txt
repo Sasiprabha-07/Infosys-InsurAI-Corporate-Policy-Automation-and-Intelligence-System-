@@ -1,0 +1,30 @@
+public class Policy {
+
+    private int policyId;
+    private String policyName;
+    private String coverage;
+
+    public int getPolicyId() {
+        return policyId;
+    }
+
+    public void setPolicyId(int policyId) {
+        this.policyId = policyId;
+    }
+
+    public String getPolicyName() {
+        return policyName;
+    }
+
+    public void setPolicyName(String policyName) {
+        this.policyName = policyName;
+    }
+
+    public String getCoverage() {
+        return coverage;
+    }
+
+    public void setCoverage(String coverage) {
+        this.coverage = coverage;
+    }
+}
