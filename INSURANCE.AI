@@ -1,0 +1,56 @@
+PROJECT TITTLE:
+
+Developed a full-stack web application to automate and manage corporate insurance policies efficiently.
+Designed and implemented the frontend using HTML, CSS, and JavaScript to provide user login, dashboard, and policy viewing features.
+Built a secure backend using Java and Spring Boot, implementing RESTful APIs for policy management and user authentication.
+Integrated MySQL database using Spring Data JPA to store and retrieve user and policy information.
+Implemented CRUD operations for insurance policies to reduce manual processing and improve accuracy.
+Followed a modular architecture separating frontend, backend, and database layers for better scalability and maintainability.
+Designed the system to support future AI-based policy analysis and recommendation features.
+Used GitHub for version control and collaborative development.
+Project Description
+The Infosys-InsurAI Corporate Policy Automation and Intelligence System is a web-based application developed to automate the management of corporate insurance policies. The system reduces manual effort by providing a centralized platform to store, manage, and analyze policy information. It enables users to log in securely, view policy details, and access insurance data through an interactive dashboard. The project is designed using modern full-stack technologies and supports future integration of AI-based policy analysis.
+3. Objectives of the Project
+To automate corporate insurance policy management
+To reduce manual paperwork and human errors
+To provide secure access to policy information
+To improve efficiency in policy handling and retrieval
+To support intelligent decision-making in the future using AI
+4. Technologies Used
+Frontend: HTML, CSS, JavaScript
+Backend: Java, Spring Boot
+Database: MySQL
+Tools: GitHub, Eclipse / VS Code
+5. System Modules
+User Login and Authentication
+Policy Management Module
+Dashboard and Policy Viewing Module
+Backend API and Database Module
+6. Usage / Applications of the System
+Used by corporate organizations to manage employee insurance policies
+Helps insurance administrators maintain policy records efficiently
+Enables quick access to policy details and coverage information
+Can be used in insurance companies for internal policy automation
+Suitable for large enterprises handling multiple insurance plans
+7. Advantages of the System
+Reduces manual work and paperwork
+Centralized storage of policy data
+Improves data accuracy and consistency
+User-friendly interface for easy navigation
+Secure access through authentication
+Scalable architecture for future enhancements
+Supports integration of AI-based intelligence
+8. Disadvantages of the System
+Requires internet connectivity to access the system
+Initial setup and deployment cost may be high
+AI features are not fully implemented in the current version
+System performance depends on server availability
+Requires technical knowledge for maintenance
+9. Future Enhancements
+Integration of AI for policy recommendation and risk analysis
+Role-based access for different types of users
+Advanced analytics and reporting features
+Cloud deployment for high availability
+Mobile application support
+10. Conclusion
+The Infosys-InsurAI Corporate Policy Automation and Intelligence System provides an efficient and secure solution for managing corporate insurance policies. By automating policy handling and enabling structured data management, the system improves operational efficiency and reduces manual effort. The project demonstrates practical implementation of full-stack development concepts and lays a strong foundation for future AI-driven enhancements.
